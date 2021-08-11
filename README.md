@@ -1,7 +1,7 @@
 # FCC-images
 
 
-![](./tribute-page.png)
+![](./tributepage.png)
 ![](./survey-form.png)
 ![](./product-landing-page.png)
 ![](./technical-documentation.png)
